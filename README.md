@@ -2,8 +2,8 @@
 
 # Hi, I'm Habib 👋
 
-**Independent Product Engineer from Indonesia**<br/>
-I design and build web apps, bots, and UI systems, and I take them from first idea to live product.
+**Full-stack Web Developer from Indonesia**<br/>
+I build and ship products end-to-end: web apps, bots, and UI systems, from first idea to live product.
 
 [![Email](https://img.shields.io/badge/Email-habibmustofa.dev%40gmail.com-1f2937?logo=gmail&logoColor=white)](mailto:habibmustofa.dev@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-Little%20Code%20Journey-1f2937?logo=astro&logoColor=white)](https://littlecodejourney.vercel.app)
