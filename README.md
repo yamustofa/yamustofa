@@ -6,7 +6,6 @@
 I build and ship products end-to-end: web apps, bots, and UI systems, from first idea to live product.
 
 [![Email](https://img.shields.io/badge/Email-habibmustofa.dev%40gmail.com-1f2937?logo=gmail&logoColor=white)](mailto:habibmustofa.dev@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Little%20Code%20Journey-1f2937?logo=astro&logoColor=white)](https://littlecodejourney.vercel.app)
 [![X](https://img.shields.io/badge/X-@mustavibe-1f2937?logo=x&logoColor=white)](https://x.com/mustavibe)
 [![Threads](https://img.shields.io/badge/Threads-@mustavibe.dev-1f2937?logo=threads&logoColor=white)](https://www.threads.com/@mustavibe.dev)
 
